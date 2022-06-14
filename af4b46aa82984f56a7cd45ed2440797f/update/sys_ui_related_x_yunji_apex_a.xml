@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record_update table="sys_ui_related_list">
+  <sys_ui_related_list action="INSERT_OR_UPDATE">
+    <calculated_name>A-默认视图</calculated_name>
+    <filter/>
+    <name>x_yunji_apex_a</name>
+    <order_by/>
+    <position/>
+    <related_list/>
+    <sys_class_name>sys_ui_related_list</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-13 16:19:22</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <sys_effective/>
+    <sys_id>32754cc278594dcfbdb87d9b2c923938</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_name>A-默认视图</sys_name>
+    <sys_package/>
+    <sys_policy/>
+    <sys_scope>af4b46aa82984f56a7cd45ed2440797f</sys_scope>
+    <sys_update_name>sys_ui_related_list_32754cc278594dcfbdb87d9b2c923938</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-13 16:19:22</sys_updated_on>
+    <view>d1a69d85b64d481bb41e3bcfef6d24e7</view>
+    <view_name>默认视图</view_name>
+  </sys_ui_related_list>
+  <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+    <filter/>
+    <list_id>32754cc278594dcfbdb87d9b2c923938</list_id>
+    <order_by/>
+    <position>0</position>
+    <related_list>x_yunji_apex_b.ref</related_list>
+    <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-13 16:21:11</sys_created_on>
+    <sys_effective/>
+    <sys_id>46c7818cfc41454ca215d574ce93bc0e</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-13 16:21:11</sys_updated_on>
+  </sys_ui_related_list_entry>
+  <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+    <filter/>
+    <list_id>32754cc278594dcfbdb87d9b2c923938</list_id>
+    <order_by/>
+    <position>1</position>
+    <related_list>REL:4efa71a250aa411f847ee64eb5f10f5e</related_list>
+    <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-13 16:21:11</sys_created_on>
+    <sys_effective/>
+    <sys_id>e0d71d019d864535b20dd65b4ec98d15</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-13 16:21:11</sys_updated_on>
+  </sys_ui_related_list_entry>
+  <sys_ui_related_list_entry action="DELETE">
+    <filter/>
+    <list_id>32754cc278594dcfbdb87d9b2c923938</list_id>
+    <order_by/>
+    <position>0</position>
+    <related_list>x_yunji_apex_b.ref</related_list>
+    <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-13 16:19:22</sys_created_on>
+    <sys_effective/>
+    <sys_id>2a4902e06b454408bc26f78280ba6d87</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-13 16:19:22</sys_updated_on>
+  </sys_ui_related_list_entry>
+</record_update>
